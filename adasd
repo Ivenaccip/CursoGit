@@ -1,0 +1,94 @@
+[33mcommit 014f5fb3f8fe108d667d9d4f81771472a4029bad[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ivenaccip <45603061+Ivenaccip@users.noreply.github.com>
+Date:   Thu Feb 9 21:45:45 2023 -0600
+
+    Cambie el titulo
+    
+    porque puedo
+
+[33mcommit 25b9bcd7906dcdedad820d4265ea3c787da5f904[m
+Merge: 4b3255b 3d6b196
+Author: ivenaccip <A01653722@itesm.mx>
+Date:   Thu Feb 9 21:39:58 2023 -0600
+
+    Merge branch 'master' of https://github.com/Ivenaccip/CursoGit
+
+[33mcommit 3d6b1967755e5e1427b06f6c82cf975aed89aea6[m
+Author: Ivenaccip <45603061+Ivenaccip@users.noreply.github.com>
+Date:   Thu Feb 9 21:29:21 2023 -0600
+
+    Initial commit
+
+[33mcommit 4b3255bd292e989c3fe9d2601f6a8d4051b8149e[m
+Merge: fd2cc84 40555c7
+Author: ivenaccip <A01653722@itesm.mx>
+Date:   Fri Feb 3 18:20:31 2023 -0600
+
+    Hotfix
+
+[33mcommit fd2cc84b676072f298675059d4256809d763216b[m
+Author: ivenaccip <A01653722@itesm.mx>
+Date:   Fri Feb 3 18:09:04 2023 -0600
+
+    Agregue suscripción
+
+[33mcommit 40555c71fd9a0f51ad89b9795b6216b46a061c14[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: ivenaccip <A01653722@itesm.mx>
+Date:   Fri Feb 3 18:07:44 2023 -0600
+
+    Modifique la cabecera y el color del texto
+
+[33mcommit 88ae723c71ae3e9d1f4c77ea1aaa99eaa063c87e[m
+Merge: 53c576f 3d5e7b2
+Author: ivenaccip <A01653722@itesm.mx>
+Date:   Fri Feb 3 17:41:18 2023 -0600
+
+    Merge branch 'cabecera'
+
+[33mcommit 53c576f53c4cb68bab289b0526530e25124ce1e9[m
+Author: ivenaccip <A01653722@itesm.mx>
+Date:   Fri Feb 3 17:40:26 2023 -0600
+
+    tipografia fea
+
+[33mcommit 607a90d699ba40923aae418daab36608b1443128[m
+Author: ivenaccip <A01653722@itesm.mx>
+Date:   Fri Feb 3 17:37:52 2023 -0600
+
+    Agregar el tarara
+
+[33mcommit 3d5e7b228b28bf1a836249d71b9aa232c8366295[m
+Author: ivenaccip <A01653722@itesm.mx>
+Date:   Fri Feb 3 17:36:11 2023 -0600
+
+    Finalizada la cabecera con el diseño azul
+
+[33mcommit c8ee271863f05423b76ef69704d95e458e37b2c1[m
+Author: ivenaccip <A01653722@itesm.mx>
+Date:   Fri Feb 3 16:55:17 2023 -0600
+
+    Estructura inicial de la cabecera
+
+[33mcommit e58e6e392426806c80cfc5796fe0d4eb71b07781[m
+Author: ivenaccip <A01653722@itesm.mx>
+Date:   Fri Feb 3 16:51:38 2023 -0600
+
+    Mandamos los estilos
+
+[33mcommit 0d8a3a1bc8e97d2343985d37490fcb732d6bc448[m
+Author: ivenaccip <A01653722@itesm.mx>
+Date:   Fri Feb 3 16:50:13 2023 -0600
+
+    Terminado
+
+[33mcommit a038d92aa16d80955af59384786b47404b6109e6[m
+Author: ivenaccip <A01653722@itesm.mx>
+Date:   Fri Feb 3 16:13:10 2023 -0600
+
+    try.html
+
+[33mcommit dc0aaa4e9ab972e2dd40106c89bd622b9daf2a31[m
+Author: ivenaccip <A01653722@itesm.mx>
+Date:   Thu Feb 2 23:08:50 2023 -0600
+
+    primer commit
